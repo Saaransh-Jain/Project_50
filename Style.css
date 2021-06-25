@@ -1,0 +1,21 @@
+h1{
+    color:red
+    }
+    
+    .Header{
+    background-color:aqua ;
+    display:flex;
+    justify-content: space-between;
+    }
+    .Grid{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    }
+    p,h2{
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    }
+    
