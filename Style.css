@@ -8,7 +8,6 @@ h1{
     justify-content: space-between;
     }
     .Grid{
-    
     display:flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -18,4 +17,7 @@ h1{
     font-size: larger;
     font-style: italic;
     }
-    
+
+    body{
+    color: #c8da79;
+    }
